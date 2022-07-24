@@ -1,70 +1,8 @@
-# Getting Started with Create React App
+<h1>Dolla Web site</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1654" alt="Ekran Resmi 2022-07-25 00 28 03" src="https://user-images.githubusercontent.com/58546835/180666632-5f6e3abb-8640-43c4-9044-04ce1ce0e427.png">
+<img width="1662" alt="Ekran Resmi 2022-07-25 00 28 15" src="https://user-images.githubusercontent.com/58546835/180666637-4001d94a-56a4-405d-9bc8-d5f90d7e07be.png">
+<img width="1660" alt="Ekran Resmi 2022-07-25 00 28 26" src="https://user-images.githubusercontent.com/58546835/180666638-6aa2a389-0d91-47e0-a019-834597d5be0a.png">
+<img width="1652" alt="Ekran Resmi 2022-07-25 00 28 37" src="https://user-images.githubusercontent.com/58546835/180666641-be2da94c-3450-4a46-8ac6-59d049ffae1e.png">
+<img width="1639" alt="Ekran Resmi 2022-07-25 00 28 55" src="https://user-images.githubusercontent.com/58546835/180666644-5c4eb39a-e952-47dc-b870-2f5a545fb9b0.png">
+<img width="1654" alt="Ekran Resmi 2022-07-25 00 29 03" src="https://user-images.githubusercontent.com/58546835/180666647-903f70de-2f9a-4e82-9812-9087216b2ee4.png">
