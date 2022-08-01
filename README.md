@@ -1,5 +1,12 @@
 <h1>Dolla Web site</h1>
-
+<p> Learn how to build a React website using styled components and React smooth scroll. The website is fully responsive and we will be using React Hooks and React Router for this project. The main sections are reusable components that you can customize and reuse anywhere on your site. </p>
+<br><br>
+🌎 Find Me Here:<br>
+https://www.aktyazilim.com/<br>
+Gmail : aktasmuratt7@gmail.com<br>
+Instagram: @maktas7<br>
+Linkedin: https://www.linkedin.com/in/murataktaş/<br>
+<br>
 <img width="1654" alt="Ekran Resmi 2022-07-25 00 28 03" src="https://user-images.githubusercontent.com/58546835/180666632-5f6e3abb-8640-43c4-9044-04ce1ce0e427.png">
 <img width="1662" alt="Ekran Resmi 2022-07-25 00 28 15" src="https://user-images.githubusercontent.com/58546835/180666637-4001d94a-56a4-405d-9bc8-d5f90d7e07be.png">
 <img width="1660" alt="Ekran Resmi 2022-07-25 00 28 26" src="https://user-images.githubusercontent.com/58546835/180666638-6aa2a389-0d91-47e0-a019-834597d5be0a.png">
